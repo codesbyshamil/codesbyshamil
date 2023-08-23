@@ -1,3 +1,6 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammed Shamil!;" />
+</h1>
 ### Hi there 👋
 
 - 🌱 𝐼 𝑎𝑚 𝑎 𝑠𝑒𝑙𝑓-𝑡𝑎𝑢𝑔ℎ𝑡 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑒𝑟 𝑓𝑟𝑜𝑚 𝐾𝑒𝑟𝑎𝑙𝑎, 𝑎𝑛𝑑 𝐼 𝑤𝑖𝑙𝑙 𝑑𝑜 𝑢𝑠𝑒𝑟-𝑓𝑟𝑖𝑒𝑛𝑑𝑙𝑦 𝑎𝑛𝑑 𝑎𝑡𝑡𝑟𝑎𝑐𝑡𝑖𝑣𝑒 𝑑𝑒𝑠𝑖𝑔𝑛𝑠 𝑡𝑜 𝑡ℎ𝑒 𝑏𝑒𝑠𝑡 𝑜𝑓 𝑚𝑦 𝑎𝑏𝑖𝑙𝑖𝑡𝑦.
