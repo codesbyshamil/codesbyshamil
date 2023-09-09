@@ -10,7 +10,8 @@
 - 📫 reach to me: [Instagram](https://instagram.com/codesbyshamil) , [Linkedin](www.linkedin.com/in/Codesbyshamil) , [Youtube](https://youtube.com/codesbyshamil)
 - 😄 Pronouns: her/him
 - ⚡ Fun fact: I'm Not A Pro 👨‍💻 But i Can 💪
-< 
+
+<h3 align="left">Connect with me:</h3> 
  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irfan.irfanulrahman" height="30" width="40" /></a> 
  <a href="https://instagram.com/codesbyshamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanul_rahman_" height="30" width="40" /></a> 
  </p> 
