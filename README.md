@@ -13,11 +13,10 @@
 
 <h3 align="left">Connect with me:</h3> 
  <a href="www.linkedin.com/in/codesbyshamil" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/lnlogo.png" alt="codesbyshamil" height="30" width="40" /></a> 
-<a href="https://instagram.com/codesbyshamil" target="blank">
+<a href="https://instagram.com/codesbyshamil" target="_blank" class="instagram-link">
   <i class="ci ci-instagram"></i>
 </a>
-
-  <a href="#" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/xlogo.png" alt="codesbyshamil" height="30" width="40" /></a> 
+ <a href="#" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/xlogo.png" alt="codesbyshamil" height="30" width="40" /></a> 
  </p> 
   
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbyshamil&show_icons=true&locale=en&layout=compact" alt="codesbyshamil" /></p>
