@@ -20,3 +20,7 @@
  </p> 
   
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbyshamil&show_icons=true&locale=en&layout=compact" alt="codesbyshamil" /></p>
+ <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
+/>
