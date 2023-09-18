@@ -12,8 +12,9 @@
 - ⚡ Fun fact: I'm Not A Pro 👨‍💻 But i Can 💪
 
 <h3 align="left">Connect with me:</h3> 
- <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="irfan.irfanulrahman" height="30" width="40" /></a> 
- <a href="https://instagram.com/codesbyshamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="irfanul_rahman_" height="30" width="40" /></a> 
+ <a href="#" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/lnlogo.png" alt="irfan.irfanulrahman" height="30" width="40" /></a> 
+ <a href="https://instagram.com/codesbyshamil" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/iglogo.png" alt="irfanul_rahman_" height="30" width="40" /></a> 
+  <a href="#" target="blank"><img align="center" src="https://github.com/codesbyshamil/codesbyshamil/blob/main/xlogo.png" alt="irfanul_rahman_" height="30" width="40" /></a> 
  </p> 
   
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesbyshamil&show_icons=true&locale=en&layout=compact" alt="codesbyshamil" /></p>
